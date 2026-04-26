@@ -5,7 +5,7 @@ const firebaseConfig = {
   apiKey: "AIzaSyCUpszgAiyV_2R8hCaS0pFX9uTTfMFvQAk",
   authDomain: "jpneons.firebaseapp.com",
   projectId: "jpneons",
-  storageBucket: "jpneons.appspot.com", // ✅ FIXED
+  storageBucket: "jpneons.appspot.com",
   messagingSenderId: "9335153294",
   appId: "1:9335153294:web:5aca489d56dfaec8829fdf",
   measurementId: "G-6V4F0J49HK",
